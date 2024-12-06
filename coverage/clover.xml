@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1733449431011" clover="3.2.0">
-  <project timestamp="1733449431012" name="All files">
+<coverage generated="1733450344561" clover="3.2.0">
+  <project timestamp="1733450344561" name="All files">
     <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1" elements="12" coveredelements="9" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
     <file name="hello_world.ts" path="/home/kristine/lab03_01/src/hello_world.ts">
       <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
